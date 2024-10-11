@@ -1,1 +1,1 @@
-# javastriptizer
+# javastriptizer first meeting
